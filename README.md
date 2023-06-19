@@ -23,4 +23,12 @@ ln -fsn ./obsidian-vault/ {path_to_your_config}/.obsidian
 ### Open Obsidian
 
 1. Select `Open folder as vault`
-2. enjoy it!
+2. `cmd+p` and search `git clone`
+3. clone the repo you need
+
+### set up auto git commit in crontab
+
+```sh
+# each hour
+0 * * * * /bin/bash {path_to}/obsidian_config/auto_git_commit.sh
+```
