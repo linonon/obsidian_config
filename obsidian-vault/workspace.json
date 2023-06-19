@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb3daaa3b814119d",
+        "id": "582773d3f3cba8d9",
         "type": "tabs",
         "children": [
           {
-            "id": "715cdca8b76506fe",
+            "id": "85f96846cf16cd0c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,8 +146,14 @@
       "templates:插入模板": false
     }
   },
-  "active": "5f679b4edfeab781",
+  "active": "85f96846cf16cd0c",
   "lastOpenFiles": [
+    "private_notes/README.md",
+    "private_notes/notes.md",
+    "private_notes/golang linter.md",
+    "learning-process/README.md",
+    "learning-process/issues/golang/golang-generic.md",
+    "learning-process/issues/golang/Best-Practices.md",
     "learning-process/reference/internet/go-lock/lock.md",
     "learning-process/reference/internet/Go-Interview/go.md",
     "learning-process/reference/internet/go-lock",
@@ -175,15 +181,9 @@
     "learning-process/issues/others/ip-up-setup.md",
     "learning-process/issues/others/fabric文檔錯誤.md",
     "learning-process/issues/others/Regular-Expression-Learning.md",
-    "learning-process/issues/golang/golang-generic.md",
-    "learning-process/issues/golang/Best-Practices.md",
     "learning-process/issues/rust",
     "learning-process/issues/others",
     "learning-process/issues/golang",
-    "learning-process/README.md",
-    "private_notes/notes.md",
-    "private_notes/golang linter.md",
-    "private_notes/README.md",
     "learning-process/未命名.canvas"
   ]
 }
