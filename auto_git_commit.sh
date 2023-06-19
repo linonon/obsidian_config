@@ -14,4 +14,7 @@ git add . >> $logfile
 # 提交更改并使用当前日期作为提交消息
 git commit -m "$(date)" >> $logfile
 
+# push
+git push
+
 cd $enter_dir
