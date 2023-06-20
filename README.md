@@ -16,8 +16,16 @@ git clone https://github.com/linonon/obsidian_config.git
 
 ### Create a symbolic link
 
+macOS
+
 ```sh
 ln -fsn ./obsidian-vault/ {path_to_your_config}/.obsidian
+```
+
+Windows
+
+```sh
+cmd /c mklink /d  .obsidian '..\obsidian_config\obsidian-vault\'
 ```
 
 ### Open Obsidian
