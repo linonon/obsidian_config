@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "582773d3f3cba8d9",
+        "id": "c977af7f6670a94b",
         "type": "tabs",
         "children": [
           {
-            "id": "85f96846cf16cd0c",
+            "id": "ab9e594ebf32ff9a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "private_notes/wealth-schedule.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "private_notes/wealth-schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "private_notes/wealth-schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "private_notes/wealth-schedule.md"
+              }
             }
           },
           {
@@ -143,15 +151,29 @@
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "command-palette:開啟命令面板": false,
-      "templates:插入模板": false
+      "templates:插入模板": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "85f96846cf16cd0c",
+  "active": "ab9e594ebf32ff9a",
   "lastOpenFiles": [
+    "private_notes/wealth-schedule.md",
     "private_notes/README.md",
     "private_notes/notes.md",
+    "private_notes/Telegram.md",
     "private_notes/golang linter.md",
+    "learning-process/未命名.md",
+    "gittest/未命名.md",
+    "gittest/wealth-schedule.md",
+    "gittest/notes.md",
+    "gittest/golang linter.md",
+    "gittest/Telegram.md",
+    "gittest/README.md",
+    "gittest",
+    "notes/new.md",
     "learning-process/README.md",
+    "learning-process/reference/rust api.md",
+    "private_notes/未命名.canvas",
     "learning-process/issues/golang/golang-generic.md",
     "learning-process/issues/golang/Best-Practices.md",
     "learning-process/reference/internet/go-lock/lock.md",
@@ -170,20 +192,8 @@
     "learning-process/issues/rust/CargoToml中~的意思.md",
     "learning-process/issues/others/找到本機網絡應用的端口號.md",
     "learning-process/issues/others/wsl端口轉發指令與規則.md",
-    "learning-process/issues/others/windows設置開機啟動執行腳本.md",
-    "learning-process/issues/others/vimrc配置.md",
-    "learning-process/issues/others/terminal指紋密碼.md",
-    "learning-process/issues/others/starship配置相關.md",
-    "learning-process/issues/others/removing-duplicate-path-entries.md",
-    "learning-process/issues/others/redis-recover.md",
-    "learning-process/issues/others/openfortivpn.md",
-    "learning-process/issues/others/mongodb後台運行方法.md",
-    "learning-process/issues/others/ip-up-setup.md",
-    "learning-process/issues/others/fabric文檔錯誤.md",
-    "learning-process/issues/others/Regular-Expression-Learning.md",
     "learning-process/issues/rust",
     "learning-process/issues/others",
-    "learning-process/issues/golang",
     "learning-process/未命名.canvas"
   ]
 }
