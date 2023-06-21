@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,16 +152,16 @@
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "command-palette:開啟命令面板": false,
-      "templates:插入模板": false,
-      "terminal:Open terminal": false
+      "templates:插入模板": false
     }
   },
   "active": "ab9e594ebf32ff9a",
   "lastOpenFiles": [
     "private_notes/README.md",
-    "private_notes/Telegram.md",
     "private_notes/wealth-schedule.md",
+    "learning-process/issues/others/git批量自動更新.md",
     "private_notes/notes.md",
+    "private_notes/Telegram.md",
     "private_notes/golang linter.md",
     "learning-process/issues/others/ip-up-setup.md",
     "learning-process/issues/others/openfortivpn.md",
@@ -191,7 +192,6 @@
     "learning-process/reading/Code Complete[代码大全] -- 第2版(中文版).pdf",
     "learning-process/reading/Code Complete.md",
     "learning-process/reading",
-    "learning-process/issues/rust/CargoToml中~的意思.md",
     "learning-process/issues/rust",
     "learning-process/issues/others",
     "learning-process/未命名.canvas"
