@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c977af7f6670a94b",
+        "id": "15133573e4bc62ed",
         "type": "tabs",
         "children": [
           {
-            "id": "ab9e594ebf32ff9a",
+            "id": "bb27972474067dca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,12 +155,12 @@
       "templates:插入模板": false
     }
   },
-  "active": "ab9e594ebf32ff9a",
+  "active": "bb27972474067dca",
   "lastOpenFiles": [
+    "private_notes/notes.md",
     "private_notes/README.md",
     "private_notes/wealth-schedule.md",
     "learning-process/issues/others/git批量自動更新.md",
-    "private_notes/notes.md",
     "private_notes/Telegram.md",
     "private_notes/golang linter.md",
     "learning-process/issues/others/ip-up-setup.md",
