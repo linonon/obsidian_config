@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private_notes/wealth-schedule.md",
+                "file": "private_notes/notes.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private_notes/wealth-schedule.md",
+                "file": "private_notes/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private_notes/wealth-schedule.md",
+                "file": "private_notes/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private_notes/wealth-schedule.md"
+                "file": "private_notes/notes.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "bb27972474067dca",
   "lastOpenFiles": [
+    "private_notes/wealth-schedule.md",
     "private_notes/notes.md",
     "private_notes/README.md",
-    "private_notes/wealth-schedule.md",
     "learning-process/issues/others/git批量自動更新.md",
     "private_notes/Telegram.md",
     "private_notes/golang linter.md",
