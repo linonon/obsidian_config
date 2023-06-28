@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2ed23c27716e7011",
+        "id": "0c233dac00763af8",
         "type": "tabs",
         "children": [
           {
-            "id": "63781669fb06b7cd",
+            "id": "538af6cbaa03033f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,10 +155,10 @@
       "templates:插入模板": false
     }
   },
-  "active": "63781669fb06b7cd",
+  "active": "538af6cbaa03033f",
   "lastOpenFiles": [
-    "private_notes/(原)牌局信息紀錄.md",
     "private_notes/notes.md",
+    "private_notes/(原)牌局信息紀錄.md",
     "private_notes/wealth-schedule.md",
     "private_notes/README.md",
     "learning-process/issues/others/git批量自動更新.md",
