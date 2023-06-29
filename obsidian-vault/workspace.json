@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-process/issues/others/vimrc配置.md",
+                "file": "private_notes/wealth-schedule.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-process/issues/others/vimrc配置.md",
+                "file": "private_notes/wealth-schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-process/issues/others/vimrc配置.md",
+                "file": "private_notes/wealth-schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-process/issues/others/vimrc配置.md"
+                "file": "private_notes/wealth-schedule.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "538af6cbaa03033f",
   "lastOpenFiles": [
-    "learning-process/issues/others/vscode配置.md",
     "learning-process/issues/others/vimrc配置.md",
+    "learning-process/issues/others/vscode配置.md",
     "private_notes/wealth-schedule.md",
     "private_notes/(原)牌局信息紀錄.md",
     "private_notes/notes.md",
