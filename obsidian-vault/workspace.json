@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0c233dac00763af8",
+        "id": "a4b047843250bfb9",
         "type": "tabs",
         "children": [
           {
-            "id": "538af6cbaa03033f",
+            "id": "8a5f5329276ad96e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private_notes/wealth-schedule.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private_notes/wealth-schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private_notes/wealth-schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "private_notes/wealth-schedule.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,11 +147,11 @@
       "templates:插入模板": false
     }
   },
-  "active": "538af6cbaa03033f",
+  "active": "8a5f5329276ad96e",
   "lastOpenFiles": [
+    "private_notes/wealth-schedule.md",
     "learning-process/issues/others/vimrc配置.md",
     "learning-process/issues/others/vscode配置.md",
-    "private_notes/wealth-schedule.md",
     "private_notes/(原)牌局信息紀錄.md",
     "private_notes/notes.md",
     "private_notes/README.md",
