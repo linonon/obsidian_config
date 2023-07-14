@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "691d83059efa1cb4",
+        "id": "ba3f87251c731ff1",
         "type": "tabs",
         "children": [
           {
-            "id": "f4e1431c8141c48c",
+            "id": "030ca732bd4c9f99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private_notes/notes.md",
+                "file": "learning-process/issues/others/vscode配置.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private_notes/notes.md",
+                "file": "learning-process/issues/others/vscode配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private_notes/notes.md",
+                "file": "learning-process/issues/others/vscode配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private_notes/notes.md"
+                "file": "learning-process/issues/others/vscode配置.md"
               }
             }
           },
@@ -155,8 +155,11 @@
       "templates:插入模板": false
     }
   },
-  "active": "f4e1431c8141c48c",
+  "active": "030ca732bd4c9f99",
   "lastOpenFiles": [
+    "learning-process/issues/others/vscode配置.md",
+    "learning-process/issues/others/未命名.md",
+    "private_notes/notes.md",
     "未命名 1.md",
     "未命名.md",
     "private_notes/wealth-schedule.md",
@@ -168,9 +171,7 @@
     "未命名.canvas",
     "learning-process/issues/others/removing-duplicate-path-entries.md",
     "2023-07-07.md",
-    "private_notes/notes.md",
     "learning-process/issues/others/vimrc配置.md",
-    "learning-process/issues/others/vscode配置.md",
     "private_notes/README.md",
     "learning-process/issues/others/git批量自動更新.md",
     "learning-process/issues/others/ip-up-setup.md",
@@ -184,7 +185,6 @@
     "gittest/README.md",
     "gittest",
     "notes/new.md",
-    "learning-process/README.md",
     "private_notes/未命名.canvas",
     "learning-process/reference/internet/go-lock",
     "learning-process/reference/internet/Go-Interview",
