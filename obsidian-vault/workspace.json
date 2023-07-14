@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ba3f87251c731ff1",
+        "id": "bf163a8c010df738",
         "type": "tabs",
         "children": [
           {
-            "id": "030ca732bd4c9f99",
+            "id": "9fd0b322673a72fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-process/issues/others/vscode配置.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-process/issues/others/vscode配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-process/issues/others/vscode配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "learning-process/issues/others/vscode配置.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,7 +147,7 @@
       "templates:插入模板": false
     }
   },
-  "active": "030ca732bd4c9f99",
+  "active": "9fd0b322673a72fb",
   "lastOpenFiles": [
     "learning-process/issues/others/vscode配置.md",
     "learning-process/issues/others/未命名.md",
