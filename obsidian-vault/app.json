@@ -3,5 +3,6 @@
   "spellcheck": false,
   "autoPairMarkdown": false,
   "livePreview": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "promptDelete": false
 }
