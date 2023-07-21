@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-process/issues/others/ip-up-setup.md",
+                "file": "notes/Golang編碼習慣.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-process/issues/others/ip-up-setup.md",
+                "file": "notes/Golang編碼習慣.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-process/issues/others/ip-up-setup.md",
+                "file": "notes/Golang編碼習慣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-process/issues/others/ip-up-setup.md"
+                "file": "notes/Golang編碼習慣.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "9fd0b322673a72fb",
   "lastOpenFiles": [
-    "未命名 1.md",
     "learning-process/issues/others/ip-up-setup.md",
+    "notes/Golang編碼習慣.md",
+    "未命名 1.md",
     "未命名.md",
     "learning-process/issues/others/vscode配置.md",
     "learning-process/issues/others/未命名.md",
@@ -184,7 +185,6 @@
     "gittest/Telegram.md",
     "gittest/README.md",
     "gittest",
-    "notes/new.md",
     "private_notes/未命名.canvas",
     "learning-process/reference/internet/go-lock",
     "learning-process/reference/internet/Go-Interview",
