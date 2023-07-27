@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Golang編碼習慣.md",
+                "file": "private_notes/未命名 1.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Golang編碼習慣.md",
+                "file": "private_notes/未命名 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Golang編碼習慣.md",
+                "file": "private_notes/未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Golang編碼習慣.md"
+                "file": "private_notes/未命名 1.md"
               }
             }
           },
@@ -157,8 +157,11 @@
   },
   "active": "9fd0b322673a72fb",
   "lastOpenFiles": [
-    "learning-process/issues/others/ip-up-setup.md",
+    "20230608/20230608.md",
+    "20230608",
     "notes/Golang編碼習慣.md",
+    "private_notes/未命名 1.md",
+    "learning-process/issues/others/ip-up-setup.md",
     "未命名 1.md",
     "未命名.md",
     "learning-process/issues/others/vscode配置.md",
@@ -182,8 +185,6 @@
     "gittest/wealth-schedule.md",
     "gittest/notes.md",
     "gittest/golang linter.md",
-    "gittest/Telegram.md",
-    "gittest/README.md",
     "gittest",
     "private_notes/未命名.canvas",
     "learning-process/reference/internet/go-lock",
@@ -194,7 +195,6 @@
     "learning-process/reading/Code Complete[代码大全] -- 第2版(中文版).pdf",
     "learning-process/reading",
     "learning-process/issues/rust",
-    "learning-process/issues/others",
     "learning-process/未命名.canvas"
   ]
 }
