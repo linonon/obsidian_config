@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private_notes/遊戲移植需要注意的點.md",
+                "file": "private_notes/roulette.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private_notes/遊戲移植需要注意的點.md",
+                "file": "private_notes/roulette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private_notes/遊戲移植需要注意的點.md",
+                "file": "private_notes/roulette.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private_notes/遊戲移植需要注意的點.md"
+                "file": "private_notes/roulette.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "9fd0b322673a72fb",
   "lastOpenFiles": [
-    "private_notes/roulette.md",
     "private_notes/遊戲移植需要注意的點.md",
+    "private_notes/roulette.md",
     "private_notes/wealth-schedule.md",
     "notes/Golang編碼習慣.md",
     "20230608/20230608.md",
