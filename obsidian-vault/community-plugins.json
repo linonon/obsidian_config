@@ -3,5 +3,7 @@
   "obsidian-vimrc-support",
   "obsidian-linter",
   "obsidian-scroll-offset",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "obsidian-annotator",
+  "dataview"
 ]

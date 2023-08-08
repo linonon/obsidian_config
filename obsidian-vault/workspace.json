@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf163a8c010df738",
+        "id": "91367ecaa538202d",
         "type": "tabs",
         "children": [
           {
-            "id": "9fd0b322673a72fb",
+            "id": "3eb36fe56fac47d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,10 +155,14 @@
       "templates:插入模板": false
     }
   },
-  "active": "9fd0b322673a72fb",
+  "active": "3eb36fe56fac47d3",
   "lastOpenFiles": [
-    "private_notes/遊戲移植需要注意的點.md",
+    "learning-process/reading/rust_for_rustaceans.md",
+    "learning-process/reading/Rust-for-Rustaceans.pdf",
+    "learning-process/reading/未命名.md",
+    "learning-process/reading/Code Complete[代码大全] -- 第2版(中文版).pdf",
     "private_notes/roulette.md",
+    "private_notes/遊戲移植需要注意的點.md",
     "private_notes/wealth-schedule.md",
     "notes/Golang編碼習慣.md",
     "20230608/20230608.md",
@@ -182,9 +186,6 @@
     "learning-process/issues/others/git批量自動更新.md",
     "learning-process/issues/others/openfortivpn.md",
     "learning-process/未命名.md",
-    "gittest/未命名.md",
-    "gittest/wealth-schedule.md",
-    "gittest/notes.md",
     "gittest",
     "private_notes/未命名.canvas",
     "learning-process/reference/internet/go-lock",
@@ -192,9 +193,7 @@
     "learning-process/reference/internet",
     "learning-process/reference/go-adcamp",
     "learning-process/reference",
-    "learning-process/reading/Code Complete[代码大全] -- 第2版(中文版).pdf",
     "learning-process/reading",
-    "learning-process/issues/rust",
     "learning-process/未命名.canvas"
   ]
 }
