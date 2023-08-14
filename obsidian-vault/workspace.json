@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "03cb4c027a41bbb7",
+        "id": "86e67280e9ea4b2a",
         "type": "tabs",
         "children": [
           {
-            "id": "59393f9b3203822f",
+            "id": "0013eafed12dbff5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private_notes/roulette.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private_notes/roulette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private_notes/roulette.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "private_notes/roulette.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,10 +147,10 @@
       "templates:插入模板": false
     }
   },
-  "active": "59393f9b3203822f",
+  "active": "0013eafed12dbff5",
   "lastOpenFiles": [
+    "private_notes/1.12迭代.md",
     "未命名.md",
-    "private_notes/roulette.md",
     "learning-process/reading/rust_for_rustaceans.md",
     "learning-process/reading/Rust-for-Rustaceans.pdf",
     "learning-process/reading/未命名.md",
