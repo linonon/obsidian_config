@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "86e67280e9ea4b2a",
+        "id": "729d85081c29b1b4",
         "type": "tabs",
         "children": [
           {
-            "id": "0013eafed12dbff5",
+            "id": "4a6058ae9b3550aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "private_notes/1.12迭代.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "private_notes/1.12迭代.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "private_notes/1.12迭代.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "private_notes/1.12迭代.md"
+              }
             }
           },
           {
@@ -147,8 +155,9 @@
       "templates:插入模板": false
     }
   },
-  "active": "0013eafed12dbff5",
+  "active": "4a6058ae9b3550aa",
   "lastOpenFiles": [
+    "private_notes/未命名.md",
     "private_notes/1.12迭代.md",
     "未命名.md",
     "learning-process/reading/rust_for_rustaceans.md",
@@ -168,7 +177,6 @@
     "Untitled Kanban.md",
     "private_notes/Telegram.md",
     "private_notes/golang linter.md",
-    "private_notes/未命名.md",
     "private_notes/(原)牌局信息紀錄.md",
     "未命名.canvas",
     "learning-process/issues/others/removing-duplicate-path-entries.md",
