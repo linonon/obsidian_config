@@ -11,9 +11,11 @@
             "id": "4a6058ae9b3550aa",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "learning-process/reading/rust_for_rustaceans.md"
+                "file": "private_notes/1.12迭代.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9623ab7bd8217be7",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-process/reading/rust_for_rustaceans.md",
+                "file": "private_notes/1.12迭代.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-process/reading/rust_for_rustaceans.md",
+                "file": "private_notes/1.12迭代.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-process/reading/rust_for_rustaceans.md"
+                "file": "private_notes/1.12迭代.md"
               }
             }
           },
@@ -156,17 +157,17 @@
   },
   "active": "4a6058ae9b3550aa",
   "lastOpenFiles": [
+    "20230608/20230608.md",
+    "learning-process/reading/rust_for_rustaceans.md",
     "private_notes/1.12迭代.md",
     "private_notes/未命名.md",
     "未命名.md",
-    "learning-process/reading/rust_for_rustaceans.md",
     "learning-process/reading/Rust-for-Rustaceans.pdf",
     "learning-process/reading/未命名.md",
     "learning-process/reading/Code Complete[代码大全] -- 第2版(中文版).pdf",
     "private_notes/遊戲移植需要注意的點.md",
     "private_notes/wealth-schedule.md",
     "notes/Golang編碼習慣.md",
-    "20230608/20230608.md",
     "20230608",
     "learning-process/issues/others/ip-up-setup.md",
     "未命名 1.md",
