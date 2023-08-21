@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bdab4dfbc1ae5f1e",
+        "id": "72c8536f9602eeb3",
         "type": "tabs",
         "children": [
           {
-            "id": "5be8d656a84a9674",
+            "id": "ab6c8d3c696a9b50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "private_notes/1.12迭代.md",
-                "mode": "source",
-                "source": true
+                "file": "learning-process/reading/rust_for_rustaceans.md"
               }
             }
           }
@@ -69,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9623ab7bd8217be7",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private_notes/1.12迭代.md",
+                "file": "learning-process/reading/rust_for_rustaceans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private_notes/1.12迭代.md",
+                "file": "learning-process/reading/rust_for_rustaceans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private_notes/1.12迭代.md"
+                "file": "learning-process/reading/rust_for_rustaceans.md"
               }
             }
           },
@@ -137,8 +136,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,14 +153,14 @@
       "templates:插入模板": false
     }
   },
-  "active": "5be8d656a84a9674",
+  "active": "5f679b4edfeab781",
   "lastOpenFiles": [
+    "learning-process/reading/Rust-for-Rustaceans.pdf",
+    "learning-process/reading/rust_for_rustaceans.md",
     "private_notes/1.12迭代.md",
     "20230608/20230608.md",
-    "learning-process/reading/rust_for_rustaceans.md",
     "private_notes/未命名.md",
     "未命名.md",
-    "learning-process/reading/Rust-for-Rustaceans.pdf",
     "learning-process/reading/未命名.md",
     "learning-process/reading/Code Complete[代码大全] -- 第2版(中文版).pdf",
     "private_notes/遊戲移植需要注意的點.md",
