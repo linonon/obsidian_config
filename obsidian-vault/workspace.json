@@ -138,12 +138,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +155,7 @@
       "templates:插入模板": false
     }
   },
-  "active": "299a9739855e1099",
+  "active": "8008d9dbd1d59474",
   "lastOpenFiles": [
     "private_notes/1.12迭代.md",
     "learning-process/reading/rust_for_rustaceans.md",
