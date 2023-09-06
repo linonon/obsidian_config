@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34aa4152fd2c81a1",
+        "id": "003278ad1e61e469",
         "type": "tabs",
         "children": [
           {
-            "id": "299a9739855e1099",
+            "id": "8eabb863bef09d51",
             "type": "leaf",
             "state": {
               "type": "pdf-annotator",
@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,10 +154,10 @@
       "templates:插入模板": false
     }
   },
-  "active": "299a9739855e1099",
+  "active": "8eabb863bef09d51",
   "lastOpenFiles": [
-    "private_notes/1.12迭代.md",
     "learning-process/reading/rust_for_rustaceans.md",
+    "private_notes/1.12迭代.md",
     "learning-process/issues/others/terminal指紋密碼.md",
     "learning-process/reading/Rust-for-Rustaceans.pdf",
     "20230608/20230608.md",
