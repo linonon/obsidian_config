@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "003278ad1e61e469",
+        "id": "28a10018779e6530",
         "type": "tabs",
         "children": [
           {
-            "id": "8eabb863bef09d51",
+            "id": "396be20ce07ec35c",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "learning-process/reading/rust_for_rustaceans.md"
+                "file": "private_notes/1.12迭代.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9623ab7bd8217be7",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-process/reading/rust_for_rustaceans.md",
+                "file": "private_notes/1.12迭代.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-process/reading/rust_for_rustaceans.md",
+                "file": "private_notes/1.12迭代.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-process/reading/rust_for_rustaceans.md"
+                "file": "private_notes/1.12迭代.md"
               }
             }
           },
@@ -154,7 +155,7 @@
       "templates:插入模板": false
     }
   },
-  "active": "8eabb863bef09d51",
+  "active": "396be20ce07ec35c",
   "lastOpenFiles": [
     "learning-process/reading/rust_for_rustaceans.md",
     "private_notes/1.12迭代.md",
