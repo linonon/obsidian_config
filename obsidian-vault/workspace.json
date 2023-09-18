@@ -11,11 +11,9 @@
             "id": "396be20ce07ec35c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "private_notes/1.12迭代.md",
-                "mode": "source",
-                "source": true
+                "file": "learning-process/reading/rust_for_rustaceans.md"
               }
             }
           }
@@ -69,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9623ab7bd8217be7",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private_notes/1.12迭代.md",
+                "file": "learning-process/reading/rust_for_rustaceans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private_notes/1.12迭代.md",
+                "file": "learning-process/reading/rust_for_rustaceans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private_notes/1.12迭代.md"
+                "file": "learning-process/reading/rust_for_rustaceans.md"
               }
             }
           },
@@ -155,10 +154,10 @@
       "templates:插入模板": false
     }
   },
-  "active": "396be20ce07ec35c",
+  "active": "5f679b4edfeab781",
   "lastOpenFiles": [
-    "learning-process/reading/rust_for_rustaceans.md",
     "private_notes/1.12迭代.md",
+    "learning-process/reading/rust_for_rustaceans.md",
     "learning-process/issues/others/terminal指紋密碼.md",
     "learning-process/reading/Rust-for-Rustaceans.pdf",
     "20230608/20230608.md",
