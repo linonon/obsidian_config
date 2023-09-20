@@ -16,19 +16,8 @@
                 "file": "learning-process/reading/rust_for_rustaceans.md"
               }
             }
-          },
-          {
-            "id": "62ea06f394e11944",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +154,7 @@
       "templates:插入模板": false
     }
   },
-  "active": "62ea06f394e11944",
+  "active": "396be20ce07ec35c",
   "lastOpenFiles": [
     "private_notes/1.12迭代.md",
     "learning-process/reading/rust_for_rustaceans.md",
