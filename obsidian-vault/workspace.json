@@ -16,8 +16,21 @@
                 "file": "learning-process/reading/rust_for_rustaceans.md"
               }
             }
+          },
+          {
+            "id": "3a581e7c645dfca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-process/issues/others/wsl端口轉發指令與規則.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9623ab7bd8217be7",
@@ -84,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-process/reading/rust_for_rustaceans.md",
+                "file": "learning-process/issues/others/wsl端口轉發指令與規則.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-process/reading/rust_for_rustaceans.md",
+                "file": "learning-process/issues/others/wsl端口轉發指令與規則.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-process/reading/rust_for_rustaceans.md"
+                "file": "learning-process/issues/others/wsl端口轉發指令與規則.md"
               }
             }
           },
@@ -154,11 +166,28 @@
       "templates:插入模板": false
     }
   },
-  "active": "396be20ce07ec35c",
+  "active": "5f679b4edfeab781",
   "lastOpenFiles": [
-    "private_notes/1.12迭代.md",
-    "learning-process/reading/rust_for_rustaceans.md",
+    "learning-process/issues/others/windows設置開機啟動執行腳本.md",
+    "learning-process/issues/others/vscode配置.md",
+    "learning-process/issues/others/vimrc配置.md",
     "learning-process/issues/others/terminal指紋密碼.md",
+    "learning-process/issues/others/starship配置相關.md",
+    "learning-process/issues/others/removing-duplicate-path-entries.md",
+    "learning-process/issues/others/Regular-Expression-Learning.md",
+    "learning-process/issues/others/redis-recover.md",
+    "learning-process/issues/others/openfortivpn.md",
+    "learning-process/issues/others/mongodb後台運行方法.md",
+    "learning-process/issues/others/ip-up-setup.md",
+    "learning-process/issues/others/git批量自動更新.md",
+    "learning-process/issues/others/fabric文檔錯誤.md",
+    "learning-process/issues/others/找到本機網絡應用的端口號.md",
+    "learning-process/issues/others/未命名.md",
+    "learning-process/issues/golang/golang-generic.md",
+    "learning-process/issues/golang/Best-Practices.md",
+    "naming deploy.md",
+    "learning-process/reading/rust_for_rustaceans.md",
+    "private_notes/1.12迭代.md",
     "learning-process/reading/Rust-for-Rustaceans.pdf",
     "20230608/20230608.md",
     "private_notes/未命名.md",
@@ -167,25 +196,8 @@
     "learning-process/reading/Code Complete[代码大全] -- 第2版(中文版).pdf",
     "private_notes/遊戲移植需要注意的點.md",
     "private_notes/wealth-schedule.md",
-    "notes/Golang編碼習慣.md",
     "20230608",
-    "learning-process/issues/others/ip-up-setup.md",
-    "未命名 1.md",
-    "learning-process/issues/others/vscode配置.md",
-    "learning-process/issues/others/未命名.md",
-    "private_notes/notes.md",
-    "Untitled Kanban.md",
-    "private_notes/Telegram.md",
-    "private_notes/golang linter.md",
-    "private_notes/(原)牌局信息紀錄.md",
     "未命名.canvas",
-    "learning-process/issues/others/removing-duplicate-path-entries.md",
-    "2023-07-07.md",
-    "learning-process/issues/others/vimrc配置.md",
-    "private_notes/README.md",
-    "learning-process/issues/others/git批量自動更新.md",
-    "learning-process/issues/others/openfortivpn.md",
-    "learning-process/未命名.md",
     "gittest",
     "private_notes/未命名.canvas",
     "learning-process/reference/internet/go-lock",
