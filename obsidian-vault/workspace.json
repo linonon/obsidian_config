@@ -11,9 +11,11 @@
             "id": "88481ddd868452bf",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "learning-process/reading/rust_for_rustaceans.md"
+                "file": "private_notes/lighthouse.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9623ab7bd8217be7",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-process/reading/rust_for_rustaceans.md",
+                "file": "private_notes/lighthouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-process/reading/rust_for_rustaceans.md",
+                "file": "private_notes/lighthouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-process/reading/rust_for_rustaceans.md"
+                "file": "private_notes/lighthouse.md"
               }
             }
           },
@@ -157,6 +158,7 @@
   "active": "88481ddd868452bf",
   "lastOpenFiles": [
     "learning-process/reading/rust_for_rustaceans.md",
+    "private_notes/lighthouse.md",
     "learning-process/issues/others/fabric文檔錯誤.md",
     "learning-process/issues/others/找到本機網絡應用的端口號.md",
     "learning-process/issues/others/查看 linux 系統版本.md",
@@ -182,7 +184,6 @@
     "20230608/20230608.md",
     "private_notes/未命名.md",
     "未命名.md",
-    "learning-process/reading/未命名.md",
     "learning-process/reading/Code Complete[代码大全] -- 第2版(中文版).pdf",
     "20230608",
     "未命名.canvas",
