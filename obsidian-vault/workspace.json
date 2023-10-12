@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b2d67afdbcc68d87",
+        "id": "911e577407eb112a",
         "type": "tabs",
         "children": [
           {
-            "id": "88481ddd868452bf",
+            "id": "34927ff5308c14b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private_notes/lighthouse.md",
+                "file": "private_notes/最新的.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private_notes/lighthouse.md",
+                "file": "private_notes/最新的.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private_notes/lighthouse.md",
+                "file": "private_notes/最新的.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private_notes/lighthouse.md"
+                "file": "private_notes/最新的.md"
               }
             }
           },
@@ -155,10 +155,10 @@
       "templates:插入模板": false
     }
   },
-  "active": "88481ddd868452bf",
+  "active": "34927ff5308c14b9",
   "lastOpenFiles": [
+    "private_notes/最新的.md",
     "learning-process/reading/rust_for_rustaceans.md",
-    "private_notes/lighthouse.md",
     "learning-process/issues/others/fabric文檔錯誤.md",
     "learning-process/issues/others/找到本機網絡應用的端口號.md",
     "learning-process/issues/others/查看 linux 系統版本.md",
