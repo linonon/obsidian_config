@@ -18,16 +18,6 @@
             }
           },
           {
-            "id": "32122d6933afd693",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
             "id": "d741147a3a9d4d5f",
             "type": "leaf",
             "state": {
@@ -39,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +166,7 @@
       "templates:插入模板": false
     }
   },
-  "active": "32122d6933afd693",
+  "active": "0bbfebfa28ee3801",
   "lastOpenFiles": [
     "private_notes/最新的.md",
     "learning-process/reading/rust_for_rustaceans.md",
