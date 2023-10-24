@@ -16,21 +16,8 @@
                 "file": "learning-process/reading/rust_for_rustaceans.md"
               }
             }
-          },
-          {
-            "id": "d741147a3a9d4d5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private_notes/最新的.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private_notes/最新的.md",
+                "file": "learning-process/reading/rust_for_rustaceans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private_notes/最新的.md",
+                "file": "learning-process/reading/rust_for_rustaceans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private_notes/最新的.md"
+                "file": "learning-process/reading/rust_for_rustaceans.md"
               }
             }
           },
@@ -167,11 +154,11 @@
       "templates:插入模板": false
     }
   },
-  "active": "d741147a3a9d4d5f",
+  "active": "0bbfebfa28ee3801",
   "lastOpenFiles": [
+    "private_notes/最新的.md",
     "learning-process/issues/others/terminal指紋密碼.md",
     "learning-process/reading/rust_for_rustaceans.md",
-    "private_notes/最新的.md",
     "private_notes/nginx 遊戲設定.md",
     "learning-process/issues/others/fabric文檔錯誤.md",
     "learning-process/issues/others/找到本機網絡應用的端口號.md",
