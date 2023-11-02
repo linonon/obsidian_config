@@ -28,9 +28,29 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b31b9b9798ffd9c2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "84acef0b90bd7814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mahjong code.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private_notes/最新的.md",
+                "file": "mahjong code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private_notes/最新的.md",
+                "file": "mahjong code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private_notes/最新的.md"
+                "file": "mahjong code.md"
               }
             }
           },
@@ -167,10 +187,11 @@
       "templates:插入模板": false
     }
   },
-  "active": "e2d3bf37b9efa883",
+  "active": "84acef0b90bd7814",
   "lastOpenFiles": [
-    "learning-process/reading/rust_for_rustaceans.md",
+    "mahjong code.md",
     "private_notes/最新的.md",
+    "learning-process/reading/rust_for_rustaceans.md",
     "learning-process/issues/others/terminal指紋密碼.md",
     "private_notes/nginx 遊戲設定.md",
     "learning-process/issues/others/fabric文檔錯誤.md",
@@ -195,7 +216,6 @@
     "private_notes/1.12迭代.md",
     "learning-process/reading/Rust-for-Rustaceans.pdf",
     "20230608/20230608.md",
-    "private_notes/未命名.md",
     "learning-process/reading/Code Complete[代码大全] -- 第2版(中文版).pdf",
     "20230608",
     "未命名.canvas",
