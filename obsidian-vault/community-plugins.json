@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-vimrc-support",
   "obsidian-linter",
-  "obsidian-scroll-offset"
+  "obsidian-scroll-offset",
+  "obsidian-annotator",
+  "dataview"
 ]

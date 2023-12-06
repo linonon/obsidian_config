@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bb3daaa3b814119d",
+        "id": "76d34bf365d75e69",
         "type": "tabs",
         "children": [
           {
-            "id": "715cdca8b76506fe",
+            "id": "f8d30f2502f3e376",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "learning-process/reading/rust_for_rustaceans.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "learning-process/reading/rust_for_rustaceans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "learning-process/reading/rust_for_rustaceans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "learning-process/reading/rust_for_rustaceans.md"
+              }
             }
           },
           {
@@ -138,16 +146,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
-      "command-palette:開啟命令面板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
       "templates:插入模板": false
     }
   },
-  "active": "5f679b4edfeab781",
+  "active": "f8d30f2502f3e376",
   "lastOpenFiles": [
+    "obsidian_config/obsidian-vault/plugins/dataview/styles.css",
+    "obsidian_config/obsidian-vault/plugins/dataview/main.js",
+    "obsidian_config/obsidian-vault/plugins/dataview/manifest.json",
+    "obsidian_config/obsidian-vault/plugins/dataview",
+    "learning-process/reading/rust_for_rustaceans.md",
+    "obsidian_config/obsidian-vault/plugins/obsidian-annotator/main.js",
+    "obsidian_config/obsidian-vault/plugins/obsidian-annotator/manifest.json",
+    "obsidian_config/obsidian-vault/plugins/obsidian-annotator",
+    "learning-process/reading/Rust-for-Rustaceans.pdf",
+    "learning-process/issues/golang/Best-Practices.md",
     "learning-process/reference/internet/go-lock/lock.md",
     "learning-process/reference/internet/Go-Interview/go.md",
     "learning-process/reference/internet/go-lock",
@@ -155,12 +173,8 @@
     "learning-process/reference/internet/Go-Interview",
     "learning-process/reference/go-adcamp/README.md",
     "learning-process/reference/internet",
-    "learning-process/reference/go-adcamp",
-    "learning-process/reference",
     "learning-process/reading/DDIA.md",
-    "learning-process/reading/Code Complete[代码大全] -- 第2版(中文版).pdf",
     "learning-process/reading/Code Complete.md",
-    "learning-process/reading",
     "learning-process/issues/rust/CargoToml中~的意思.md",
     "learning-process/issues/others/找到本機網絡應用的端口號.md",
     "learning-process/issues/others/wsl端口轉發指令與規則.md",
@@ -176,14 +190,8 @@
     "learning-process/issues/others/fabric文檔錯誤.md",
     "learning-process/issues/others/Regular-Expression-Learning.md",
     "learning-process/issues/golang/golang-generic.md",
-    "learning-process/issues/golang/Best-Practices.md",
-    "learning-process/issues/rust",
-    "learning-process/issues/others",
-    "learning-process/issues/golang",
     "learning-process/README.md",
     "private_notes/notes.md",
-    "private_notes/golang linter.md",
-    "private_notes/README.md",
     "learning-process/未命名.canvas"
   ]
 }
