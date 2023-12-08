@@ -13,7 +13,13 @@
             "state": {
               "type": "pdf-annotator",
               "state": {
+<<<<<<< HEAD
                 "file": "learning-process/reading/rust_for_rustaceans.md"
+=======
+                "file": "learning-process/learning/Learning Japaness Part 1.md",
+                "mode": "source",
+                "source": true
+>>>>>>> a43e5e380bb0b02f1bfc9d34e81f8b6df78a4b20
               }
             }
           }
@@ -83,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-process/reading/rust_for_rustaceans.md",
+                "file": "learning-process/learning/Learning Japaness Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-process/reading/rust_for_rustaceans.md",
+                "file": "learning-process/learning/Learning Japaness Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-process/reading/rust_for_rustaceans.md"
+                "file": "learning-process/learning/Learning Japaness Part 1.md"
               }
             }
           },
@@ -134,26 +140,50 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "8a0250600d98e11d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 3
+=======
+        "currentTab": 5
+>>>>>>> a43e5e380bb0b02f1bfc9d34e81f8b6df78a4b20
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+<<<<<<< HEAD
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "command-palette:開啟命令面板": false,
       "templates:插入模板": false
+=======
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "templates:插入模板": false,
+      "obsidian-spaced-repetition:复习卡片": false
+>>>>>>> a43e5e380bb0b02f1bfc9d34e81f8b6df78a4b20
     }
   },
   "active": "364be555b5497426",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "learning-process/learning/Learning Japaness Part 1.md",
     "learning-process/learning",
     "learning-process/reading/rust_for_rustaceans.md",
@@ -173,10 +203,42 @@
     "learning-process/issues/others/starship配置相關.md",
     "learning-process/issues/others/removing-duplicate-path-entries.md",
     "learning-process/issues/others/Regular-Expression-Learning.md",
+=======
+    "learning-process/reading/rust_for_rustaceans.md",
+    "learning-process/learning/Learning Japaness Part 1.md",
+    "learning-process/learning",
+    "learning-process/issues/golang/Best-Practices.md",
+    "obsidian_config/obsidian-vault/plugins/obsidian-spaced-repetition/data.json",
+    "obsidian_config/obsidian-vault/plugins/obsidian-spaced-repetition/styles.css",
+    "obsidian_config/obsidian-vault/plugins/obsidian-spaced-repetition/main.js",
+    "obsidian_config/obsidian-vault/plugins/obsidian-spaced-repetition/manifest.json",
+    "obsidian_config/obsidian-vault/plugins/obsidian-spaced-repetition",
+    "learning-process/issues/others/Regular-Expression-Learning.md",
+    "learning-process/issues/others/removing-duplicate-path-entries.md",
+    "learning-process/issues/others/wsl端口轉發指令與規則.md",
+    "learning-process/issues/others/windows設置開機啟動執行腳本.md",
+    "learning-process/issues/others/vscode配置.md",
+    "learning-process/issues/others/terminal指紋密碼.md",
+    "learning-process/reading/Rust-for-Rustaceans.pdf",
+    "obsidian_config/obsidian-vault/plugins/dataview/styles.css",
+    "obsidian_config/obsidian-vault/plugins/dataview/main.js",
+    "obsidian_config/obsidian-vault/plugins/dataview/manifest.json",
+    "learning-process/reference/internet/go-lock/lock.md",
+    "learning-process/reference/internet/Go-Interview/go.md",
+    "learning-process/reference/internet/README.md",
+    "learning-process/reference/go-adcamp/README.md",
+    "learning-process/reading/DDIA.md",
+    "learning-process/reading/Code Complete.md",
+    "learning-process/issues/rust/CargoToml中~的意思.md",
+    "learning-process/issues/others/找到本機網絡應用的端口號.md",
+    "learning-process/issues/others/vimrc配置.md",
+    "learning-process/issues/others/starship配置相關.md",
+>>>>>>> a43e5e380bb0b02f1bfc9d34e81f8b6df78a4b20
     "learning-process/issues/others/redis-recover.md",
     "learning-process/issues/others/openfortivpn.md",
     "learning-process/issues/others/mongodb後台運行方法.md",
     "learning-process/issues/others/ip-up-setup.md",
+<<<<<<< HEAD
     "learning-process/issues/others/git批量自動更新.md",
     "learning-process/issues/golang/golang-generic.md",
     "learning-process/issues/golang/Best-Practices.md",
@@ -192,6 +254,11 @@
     "learning-process/reference/internet",
     "learning-process/reference/go-adcamp",
     "learning-process/reference",
+=======
+    "learning-process/issues/others/fabric文檔錯誤.md",
+    "learning-process/issues/golang/golang-generic.md",
+    "learning-process/README.md",
+>>>>>>> a43e5e380bb0b02f1bfc9d34e81f8b6df78a4b20
     "learning-process/未命名.canvas"
   ]
 }

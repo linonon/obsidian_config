@@ -4,5 +4,9 @@
   "autoPairMarkdown": false,
   "livePreview": false,
   "showLineNumber": true,
+<<<<<<< HEAD
   "promptDelete": false
+=======
+  "tabSize": 2
+>>>>>>> a43e5e380bb0b02f1bfc9d34e81f8b6df78a4b20
 }
