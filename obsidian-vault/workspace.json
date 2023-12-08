@@ -1,26 +1,18 @@
 {
   "main": {
-    "id": "1a4c5d9683388c3c",
+    "id": "99f4debc47b48579",
     "type": "split",
     "children": [
       {
-        "id": "329ffdc2c152274d",
+        "id": "8cc09d417898ac35",
         "type": "tabs",
         "children": [
           {
-            "id": "364be555b5497426",
+            "id": "4e89ec55e6ce3731",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
-              "state": {
-<<<<<<< HEAD
-                "file": "learning-process/reading/rust_for_rustaceans.md"
-=======
-                "file": "learning-process/learning/Learning Japaness Part 1.md",
-                "mode": "source",
-                "source": true
->>>>>>> a43e5e380bb0b02f1bfc9d34e81f8b6df78a4b20
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -29,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "45624a0ac8902fc2",
+    "id": "8e16cc6dc4d0e8ff",
     "type": "split",
     "children": [
       {
-        "id": "779d53ebcf3825fb",
+        "id": "8ae8cc947e523f9b",
         "type": "tabs",
         "children": [
           {
-            "id": "5f679b4edfeab781",
+            "id": "6f96400306158762",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +39,7 @@
             }
           },
           {
-            "id": "2854fb5b19ac4300",
+            "id": "bded29c3a0459152",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +54,7 @@
             }
           },
           {
-            "id": "6e125659ea4d7ff4",
+            "id": "fbe15ce9ab3cf7d1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "9623ab7bd8217be7",
+    "id": "25bdbb91f836b6b2",
     "type": "split",
     "children": [
       {
-        "id": "a1cc0b84d0c2f827",
+        "id": "1cf66f78ac3e0f53",
         "type": "tabs",
         "children": [
           {
-            "id": "8f02696bff63059a",
+            "id": "b7624f7bf78232ec",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-process/learning/Learning Japaness Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,19 +92,18 @@
             }
           },
           {
-            "id": "0b16e2487249433b",
+            "id": "2a295cba28cdc2c4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-process/learning/Learning Japaness Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "252db209bf53e14d",
+            "id": "d436fb2b3fab76b0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -124,37 +114,14 @@
             }
           },
           {
-            "id": "8008d9dbd1d59474",
+            "id": "34e6780bd261ec30",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "learning-process/learning/Learning Japaness Part 1.md"
-              }
-            }
-          },
-          {
-            "id": "fe8ce6a308bf7599",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "8a0250600d98e11d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
               "state": {}
             }
           }
-        ],
-<<<<<<< HEAD
-        "currentTab": 3
-=======
-        "currentTab": 5
->>>>>>> a43e5e380bb0b02f1bfc9d34e81f8b6df78a4b20
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,102 +130,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-<<<<<<< HEAD
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
-      "command-palette:開啟命令面板": false,
-      "templates:插入模板": false
-=======
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "command-palette:打开命令面板": false,
       "templates:插入模板": false,
-      "obsidian-spaced-repetition:复习卡片": false
->>>>>>> a43e5e380bb0b02f1bfc9d34e81f8b6df78a4b20
+      "command-palette:開啟命令面板": false
     }
   },
-  "active": "364be555b5497426",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "learning-process/learning/Learning Japaness Part 1.md",
-    "learning-process/learning",
-    "learning-process/reading/rust_for_rustaceans.md",
-    "private_notes/最新的.md",
-    "learning-process/issues/others/git squash or rebase commit.md",
-    "mahjong code.md",
-    "learning-process/issues/others/terminal指紋密碼.md",
-    "private_notes/nginx 遊戲設定.md",
-    "learning-process/issues/others/fabric文檔錯誤.md",
-    "learning-process/issues/others/找到本機網絡應用的端口號.md",
-    "learning-process/issues/others/查看 linux 系統版本.md",
-    "learning-process/issues/rust/CargoToml中~的意思.md",
-    "learning-process/issues/others/wsl端口轉發指令與規則.md",
-    "learning-process/issues/others/windows設置開機啟動執行腳本.md",
-    "learning-process/issues/others/vscode配置.md",
-    "learning-process/issues/others/vimrc配置.md",
-    "learning-process/issues/others/starship配置相關.md",
-    "learning-process/issues/others/removing-duplicate-path-entries.md",
-    "learning-process/issues/others/Regular-Expression-Learning.md",
-=======
-    "learning-process/reading/rust_for_rustaceans.md",
-    "learning-process/learning/Learning Japaness Part 1.md",
-    "learning-process/learning",
-    "learning-process/issues/golang/Best-Practices.md",
-    "obsidian_config/obsidian-vault/plugins/obsidian-spaced-repetition/data.json",
-    "obsidian_config/obsidian-vault/plugins/obsidian-spaced-repetition/styles.css",
-    "obsidian_config/obsidian-vault/plugins/obsidian-spaced-repetition/main.js",
-    "obsidian_config/obsidian-vault/plugins/obsidian-spaced-repetition/manifest.json",
-    "obsidian_config/obsidian-vault/plugins/obsidian-spaced-repetition",
-    "learning-process/issues/others/Regular-Expression-Learning.md",
-    "learning-process/issues/others/removing-duplicate-path-entries.md",
-    "learning-process/issues/others/wsl端口轉發指令與規則.md",
-    "learning-process/issues/others/windows設置開機啟動執行腳本.md",
-    "learning-process/issues/others/vscode配置.md",
-    "learning-process/issues/others/terminal指紋密碼.md",
-    "learning-process/reading/Rust-for-Rustaceans.pdf",
-    "obsidian_config/obsidian-vault/plugins/dataview/styles.css",
-    "obsidian_config/obsidian-vault/plugins/dataview/main.js",
-    "obsidian_config/obsidian-vault/plugins/dataview/manifest.json",
-    "learning-process/reference/internet/go-lock/lock.md",
-    "learning-process/reference/internet/Go-Interview/go.md",
-    "learning-process/reference/internet/README.md",
-    "learning-process/reference/go-adcamp/README.md",
-    "learning-process/reading/DDIA.md",
-    "learning-process/reading/Code Complete.md",
-    "learning-process/issues/rust/CargoToml中~的意思.md",
-    "learning-process/issues/others/找到本機網絡應用的端口號.md",
-    "learning-process/issues/others/vimrc配置.md",
-    "learning-process/issues/others/starship配置相關.md",
->>>>>>> a43e5e380bb0b02f1bfc9d34e81f8b6df78a4b20
-    "learning-process/issues/others/redis-recover.md",
-    "learning-process/issues/others/openfortivpn.md",
-    "learning-process/issues/others/mongodb後台運行方法.md",
-    "learning-process/issues/others/ip-up-setup.md",
-<<<<<<< HEAD
-    "learning-process/issues/others/git批量自動更新.md",
-    "learning-process/issues/golang/golang-generic.md",
-    "learning-process/issues/golang/Best-Practices.md",
-    "naming deploy.md",
-    "learning-process/reading/Rust-for-Rustaceans.pdf",
-    "learning-process/reading/Code Complete[代码大全] -- 第2版(中文版).pdf",
-    "20230608",
-    "未命名.canvas",
-    "gittest",
-    "private_notes/未命名.canvas",
-    "learning-process/reference/internet/go-lock",
-    "learning-process/reference/internet/Go-Interview",
-    "learning-process/reference/internet",
-    "learning-process/reference/go-adcamp",
-    "learning-process/reference",
-=======
-    "learning-process/issues/others/fabric文檔錯誤.md",
-    "learning-process/issues/golang/golang-generic.md",
-    "learning-process/README.md",
->>>>>>> a43e5e380bb0b02f1bfc9d34e81f8b6df78a4b20
-    "learning-process/未命名.canvas"
-  ]
+  "active": "4e89ec55e6ce3731",
+  "lastOpenFiles": []
 }

@@ -1,13 +1,1 @@
-[
-  "obsidian-git",
-  "obsidian-vimrc-support",
-  "obsidian-linter",
-  "obsidian-scroll-offset",
-<<<<<<< HEAD
-  "obsidian-shellcommands",
-=======
->>>>>>> 320462be8166ecf618cb58cd99d0c5f296ef0109
-  "obsidian-annotator",
-  "dataview",
-  "obsidian-spaced-repetition"
-]
+[]
