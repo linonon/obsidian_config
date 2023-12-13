@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8cc09d417898ac35",
+        "id": "15f19c04df02003d",
         "type": "tabs",
         "children": [
           {
-            "id": "4e89ec55e6ce3731",
+            "id": "0877e13caa55e4a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Todo-List.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo-List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo-List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo-List.md"
+              }
             }
           }
         ]
@@ -138,6 +146,8 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "4e89ec55e6ce3731",
-  "lastOpenFiles": []
+  "active": "0877e13caa55e4a2",
+  "lastOpenFiles": [
+    "Todo-List.md"
+  ]
 }
