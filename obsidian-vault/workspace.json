@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "01af44690755e764",
+        "id": "bc4e055fcaee582e",
         "type": "tabs",
         "children": [
           {
-            "id": "75550ccd288ff6e3",
+            "id": "277a9ab712073168",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25bdbb91f836b6b2",
@@ -121,8 +120,17 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "4a021e76463ed19d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -136,11 +144,16 @@
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "command-palette:開啟命令面板": false,
+      "obsidian-spaced-repetition:復習卡片": false
     }
   },
-  "active": "75550ccd288ff6e3",
+  "active": "277a9ab712073168",
   "lastOpenFiles": [
+    "learning-process/reading/rust_for_rustaceans.md",
+    "learning-process/reading/DDIA.md",
+    "learning-process/issues/others/好用的软件.md",
+    "learning-process/reading/Rust-for-Rustaceans.pdf",
     "Todo-List.md"
   ]
 }

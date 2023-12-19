@@ -1,1 +1,9 @@
-[]
+[
+  "dataview",
+  "obsidian-annotator",
+  "obsidian-git",
+  "obsidian-spaced-repetition",
+  "obsidian-vimrc-support",
+  "obsidian-shellcommands",
+  "obsidian-scroll-offset"
+]
